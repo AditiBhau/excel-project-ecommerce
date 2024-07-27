@@ -8,7 +8,7 @@ Profit: $2,86,397.02 (YoY Growth: 14.41%)
 Quantity: 37,873 (YoY Growth: 27.45%)
 Orders: 9,994 (YoY Growth: 28.64%)
 Profit Margin: 12.47% (YoY Growth: 5.15%)
-Tools & Technologies: Python, SQL, Power BI, Excel
+Tools & Technologies:   Excel
 Data Analysis Techniques:
 Performed trend analysis to identify monthly sales and profit patterns.
 Conducted category-wise profit analysis to determine the most profitable categories.
